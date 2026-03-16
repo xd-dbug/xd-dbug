@@ -21,7 +21,7 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 | [RetroGameAPI](https://github.com/xd-dbug/CSC380) | RESTful API for retro game data | Go |
 | [API Dashboard](https://github.com/xd-dbug/CSC160) | Cross-platform desktop API viewer | C#, GTK#, .NET |
 | [StudyBug](https://github.com/LissAponte/PRO150-SC2) | Collaborative study rooms with real-time chat | React, JavaScript |
-| [Knucklebones]([https://github.com/xd-dbug/Knucklebones](https://github.com/SmartDude18/knucklebones)) | Group project showcasing waterfall methodology | Bun, JavaScript |
+| [Knucklebones](https://github.com/SmartDude18/knucklebones) | Group project showcasing waterfall methodology | Bun, JavaScript |
 
 ---
 
