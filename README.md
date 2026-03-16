@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Damian Swiney
 
 ![Profile views](https://komarev.com/ghpvc/?username=xd-dbug&color=grey&style=flat)
@@ -59,4 +57,4 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://www.linkedin.com/in/damian-swiney-4251b0292/)
