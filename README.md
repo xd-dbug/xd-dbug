@@ -57,4 +57,4 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 
 ## Connect
 
-[![LinkedIn](https://www.linkedin.com/in/damian-swiney-4251b0292/)
+[LinkedIn](https://www.linkedin.com/in/damian-swiney-4251b0292/)
