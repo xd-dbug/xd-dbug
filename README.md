@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=xd-dbug&color=grey&style=flat)
 
-Third-year Software Engineering student at Neumont University. I build backend services, desktop tools, and web apps — usually in whatever language fits the problem best.
+Third-year Software Engineering student at Neumont University. I build backend services, desktop tools, and web apps — usually in whatever language fits the project best.
 
 Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++**
 
