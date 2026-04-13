@@ -11,6 +11,7 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 ## Currently building
 
 - **Raspberry Pi 3 project** — embedded systems / hardware tinkering (in progress)
+- **Design Principles Practice** — practice implementing proper design principles 
 
 ---
 
