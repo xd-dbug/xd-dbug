@@ -10,7 +10,7 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 
 ## Currently building
 
-- **Raspberry Pi 3 project** — embedded systems / hardware tinkering (in progress)
+- **Software Engineering Dashboard** — 1 stop shop for important info for SE students
 - **Design Principles Practice** — practice implementing proper design principles 
 
 ---
