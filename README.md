@@ -23,6 +23,7 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 | [API Dashboard](https://github.com/xd-dbug/CSC160) | Cross-platform desktop API viewer | C#, GTK#, .NET |
 | [StudyBug](https://github.com/LissAponte/PRO150-SC2) | Collaborative study rooms with real-time chat | React, JavaScript |
 | [Knucklebones](https://github.com/SmartDude18/knucklebones) | Group project showcasing waterfall methodology | Bun, JavaScript |
+| [Food Ordering System](https://github.com/xd-dbug/YOUR-REPO-NAME) | Microservices food ordering platform with async messaging, service discovery, and API gateway | Go, PostgreSQL, Redis, RabbitMQ, Docker |
 
 ---
 
@@ -45,6 +46,8 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
 ---
 
