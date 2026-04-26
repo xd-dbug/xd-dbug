@@ -23,7 +23,7 @@ Currently working with: **Go · Java · Python · JavaScript · SQL · C# · C++
 | [API Dashboard](https://github.com/xd-dbug/CSC160) | Cross-platform desktop API viewer | C#, GTK#, .NET |
 | [StudyBug](https://github.com/LissAponte/PRO150-SC2) | Collaborative study rooms with real-time chat | React, JavaScript |
 | [Knucklebones](https://github.com/SmartDude18/knucklebones) | Group project showcasing waterfall methodology | Bun, JavaScript |
-| [Food Ordering System](https://github.com/xd-dbug/YOUR-REPO-NAME) | Microservices food ordering platform with async messaging, service discovery, and API gateway | Go, PostgreSQL, Redis, RabbitMQ, Docker |
+| [Food Ordering System](https://github.com/xd-dbug/RestaurntService) | Microservices food ordering platform with async messaging, service discovery, and API gateway | Go, PostgreSQL, Redis, RabbitMQ, Docker |
 
 ---
 
